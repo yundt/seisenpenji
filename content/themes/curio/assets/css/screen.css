@@ -960,6 +960,7 @@ pre {
     line-height: 1em;
     text-transform: uppercase;
     color: #202020;
+    height: inherit;
   }
   .navbar-brand:hover,
   .navbar-brand:focus {
