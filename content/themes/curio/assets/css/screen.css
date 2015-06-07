@@ -549,6 +549,9 @@ pre {
 .single-post-full .post-content-wrap .featured-media img {
   width: 100%;
 }
+.single-post-full .post-content-wrap .featured-media.small img {
+  max-width: 300px;
+}
 .single-post-full .post-content-wrap .post-content-full {
   margin-top: 28px;
 }
