@@ -32,7 +32,7 @@ config = {
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
         // Change this to your Ghost blogs published URL.
-        url: 'http://seisenpenji.herokuapp.com',
+        url: 'http://www.seisenpenji.com',
 
         // Example mail config
         // Visit http://support.ghost.org/mail for instructions
