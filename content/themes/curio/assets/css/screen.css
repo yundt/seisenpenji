@@ -970,7 +970,7 @@ pre {
     color: #202020;
   }
   .navbar-brand img {
-    max-height: 50px;
+    max-height: 100px;
   }
   .navbar-toggle {
     border: 1px solid #202020;
